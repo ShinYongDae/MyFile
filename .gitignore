@@ -1,0 +1,11 @@
+Debug/
+ipch/
+x64/
+MyFile.sdf
+MyFile.VC.db
+MyFile/Debug/
+MyFile/x64/
+.vs/
+MyFile/MyFile.aps
+
+
